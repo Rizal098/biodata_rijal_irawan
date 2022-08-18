@@ -7,3 +7,4 @@ smp: smpn39 bandung
 smk:smk prakarya internasional
 magang:PT.MSN (Mdia Solusi Network)
 kerja:pengacara (pengangguran banyak acara)
+
