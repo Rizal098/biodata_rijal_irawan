@@ -5,3 +5,5 @@ hobi:main bola,main game
 sd: sdn caringin 121 bandung
 smp: smpn39 bandung
 smk:smk prakarya internasional
+magang:PT.MSN (Mdia Solusi Network)
+kerja:pengacara (pengangguran banyak acara)
